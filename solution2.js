@@ -1,0 +1,7 @@
+$(
+    $('.ice-crea-flavors')
+
+
+
+
+);
